@@ -1,2 +1,3 @@
+//Animation_in_Photos by Pedro Viegas
 include ':app'
 rootProject.name='Photo Motion'
