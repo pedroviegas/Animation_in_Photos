@@ -1,3 +1,4 @@
+//Animation_in_Photos by Pedro Viegas
 package com.codeshare.photomotion.adapter;
 
 import android.app.Activity;
