@@ -1,3 +1,4 @@
+//Animation_in_Photos by Pedro Viegas
 package com.codeshare.photomotion.activity;
 
 import android.content.Intent;
